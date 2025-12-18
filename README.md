@@ -1,1 +1,1 @@
-Code for "Goal-Reaching Control Synthesis for Neural Network Control Systems via Backward Reachability", Hang Zhang, Abigail J. Winn, Yuhao Zhang and Xiangru Xu, *IEEE Control Systems Letters*, 2025.
+Code for "Goal-Reaching Control Synthesis for Neural Network Control Systems via Backward Reachability", Hang Zhang, Abigail J. Winn, Yuhao Zhang and Xiangru Xu, *IEEE Control Systems Letters*, 9: 2771 – 2776, 2025. https://doi.org/10.1109/LCSYS.2025.3641995.
